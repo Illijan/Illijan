@@ -34,7 +34,7 @@ I am a detail-oriented Junior QA Tester with practical experience in creating te
 
 Here are some of the key projects demonstrating my testing skills. *(Note: You should create separate repositories for these and link them here)*:
 
-*   [**QA API Collection**](https://github.com/Illijan/Illia-Striuk-Portfolio/blob/main/QA%20API%20Portfolio%20-%20JSONPlaceholder.postman_collection.json) 
+*   [**QA API Collection**]([https://github.com/Illijan/Illia-Striuk-Portfolio/blob/main/QA%20API%20Portfolio%20-%20JSONPlaceholder.postman_collection.json](https://github.com/Illijan/Illia-Striuk-Postman-and-JSONPlaceholder)) 
     *   *Description:* A comprehensive Postman collection for REST API testing. Includes status code validation, required field checks, and negative test scenarios.
 *   [**Bug Report Portfolio**](#) 
     *   *Description:* A curated set of bug reports showcasing proper structure: steps to reproduce, expected vs. actual results, severity/priority assignment, and evidence gathered using Chrome DevTools.
