@@ -38,7 +38,7 @@ Here are some of the key projects demonstrating my testing skills. *(Note: You s
     *   *Description:* A comprehensive Postman collection for REST API testing. Includes status code validation, required field checks, and negative test scenarios.
 *   [**Bug Report Portfolio**](https://github.com/Illijan/bug-report-portfolio) 
     *   *Description:* A curated set of bug reports showcasing proper structure: steps to reproduce, expected vs. actual results, severity/priority assignment, and evidence gathered using Chrome DevTools.
-*   [**Warehouse Management System (WMS) Project**]((https://github.com/Illijan/test-cases-portfolio)) 
+*   [**Warehouse Management System (WMS) Project**]([(https://github.com/Illijan/test-cases-portfolio)]) 
     *   *Description:* Designed testing workflows and Kanban-based processes for a WMS application, involving complex inventory tracking logic.
 
 ---
