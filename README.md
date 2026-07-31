@@ -34,9 +34,9 @@ I am a detail-oriented Junior QA Tester with practical experience in creating te
 
 Here are some of the key projects demonstrating my testing skills. *(Note: You should create separate repositories for these and link them here)*:
 
-*   * [**QA API Collection**](https://github.com/Illijan/Illia-Striuk-Portfolio)
+*   [**QA API Collection**](https://github.com/Illijan/Illia-Striuk-Portfolio)
     *   *Description:* A comprehensive Postman collection for REST API testing. Includes status code validation, required field checks, and negative test scenarios.
-*   [**Bug Report Portfolio**](#) 
+*   [**Bug Report Portfolio**](https://github.com/Illijan/bug-report-portfolio) 
     *   *Description:* A curated set of bug reports showcasing proper structure: steps to reproduce, expected vs. actual results, severity/priority assignment, and evidence gathered using Chrome DevTools.
 *   [**Warehouse Management System (WMS) Project**](https://github.com/Illijan/test-cases-portfolio/blob/main/README.md) 
     *   *Description:* Designed testing workflows and Kanban-based processes for a WMS application, involving complex inventory tracking logic.
