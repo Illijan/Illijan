@@ -51,4 +51,4 @@ Here are some of the key projects demonstrating my testing skills. *(Note: You s
 
 ### Languages
 *   **Polish:** B2 (Upper-Intermediate)
-*   **English:** B1 (Intermediate) - Technical documentation and team communication.
+*   **English:** B1 (Intermediate) - Technical documentation
