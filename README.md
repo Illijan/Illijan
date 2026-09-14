@@ -1,4 +1,4 @@
-# Hello, my name Illia Striuk!
+# Hello, my name is Illia Striuk
 
 **Junior QA Tester | Manual & API Testing**
 
@@ -32,7 +32,7 @@ I am a detail-oriented Junior QA Tester with practical experience in creating te
 
 ### Portfolio Projects
 
-Here are some of the key projects demonstrating my testing skills. *(Note: You should create separate repositories for these and link them here)*:
+Here are some of the key projects demonstrating my testing skills.
 
 *   [**QA API Collection**](https://github.com/Illijan/Illia-Striuk-Portfolio)
     *   *Description:* A comprehensive Postman collection for REST API testing. Includes status code validation, required field checks, and negative test scenarios.
