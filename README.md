@@ -6,7 +6,7 @@ I am a detail-oriented Junior QA Tester with practical experience in creating te
 
 **Living in:** Gdynia, Poland (Open to Remote work)
 **Mail:** striukillia23@gmail.com
-**Number:** +48 795 745 469
+**Number:** +48 795 745 469 (14.09.26 - 24.09.26 kontakt only WhatsApp)
 
 ---
 
